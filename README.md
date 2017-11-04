@@ -1,1 +1,2 @@
 # puzPlot
+Projekt pro Risu
