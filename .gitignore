@@ -1,0 +1,20 @@
+#Vsechny soubory jsou zakazany
+#-----------------------------------------------------------------------
+*.*
+
+#Seznam povolenych souboru
+#-----------------------------------------------------------------------
+!*.gitignore
+
+#LATEX
+!*.tex
+
+#Office
+!*.odt
+!*.odg
+!*.oxt
+!*.dic
+!*.aff
+
+#Obrazky
+!*.png
