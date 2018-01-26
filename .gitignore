@@ -18,3 +18,9 @@
 
 #Obrazky
 !*.png
+
+#QT Designer
+!*.ui
+
+#Python
+!*.py
